@@ -1,7 +1,7 @@
 public class Clase01Ejercicio01{
    public static void main(String[] args){
       //System.out.println("Hola mundo!");
-      int numeroInicio=5;
+      int numeroInicio=6;
       int numeroFin=14;
       int numeroEvaluable=numeroInicio;
 
